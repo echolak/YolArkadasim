@@ -1,0 +1,7 @@
+{
+  "name": "YolArkadaşım AI - Akıllı Trafik ve Yol Durumu",
+  "description": "Türkiye genelinde canlı trafik, polis noktaları, radar uyarıları ve kullanıcılar arası anlık mesajlaşma sağlayan yapay zeka destekli yol haritası uygulaması.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
